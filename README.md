@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pauljainta
-- 👀 I’m interested in Software Engineering,Machine Learning,Database Designing 
-- 🌱 I’m currently learning Web Developing technologies like ReactJS ,NodeJS etc.
+- 👀 I’m interested in Security and Safety of Cyber-Physical Systems
 - 📫 How to reach me ... 
--Email:jaintapaul1998@gmail.com,1605022@ugrad.cse.buet.ac.bd
+-Email:jaintapaul1998@gmail.com,u1471999@utah.edu
 
